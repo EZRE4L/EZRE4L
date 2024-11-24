@@ -13,3 +13,12 @@
 
   <img src="https://i.postimg.cc/GhhdhvvY/6348ee28.png">  <img src="https://autism.crd.co/assets/images/gallery05/12d0e126.png?v=1be2f3c4">  <img src="https://files.catbox.moe/o6gd7j.gif">
   </div>
+ <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=rhwndrs8sepg5n5kwiy75638b">
+</a>
+ <details>
+ <summary> - 𝙎𝙥𝙤𝙩𝙞𝙛𝙮 𝙨𝙩𝙖𝙩𝙨 <3 </summary>
+
+ <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=rhwndrs8sepg5n5kwiy75638b" alt="Data Card for Spotify">
+
+
+</details>
