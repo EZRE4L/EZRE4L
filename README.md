@@ -2,8 +2,7 @@
    
 . . . . . . . . . .╭──╯ 𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴!╰──╮ . . . . . . . . . . 
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rhwndrs8sepg5n5kwiy75638b&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=5b9dbe&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rhwndrs8sepg5n5kwiy75638b&redirect=true)
-  
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rhwndrs8sepg5n5kwiy75638b&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=82a8bf&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rhwndrs8sepg5n5kwiy75638b&redirect=true)
   <img src="https://i.ibb.co/VYTQ7Xq/obraz-2024-05-21-192801323.png" alt="obraz-2024-05-21-192801323" border="0">
   <img src="https://i.postimg.cc/C5Rj2FRm/59bf563c.gif"> 
 
