@@ -4,7 +4,7 @@
  
   <img src="https://i.ibb.co/VYTQ7Xq/obraz-2024-05-21-192801323.png" alt="obraz-2024-05-21-192801323" border="0">
   
- ・・・・・˗ˏˋ ★ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rhwndrs8sepg5n5kwiy75638b&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=82a8bf&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rhwndrs8sepg5n5kwiy75638b&redirect=true) ★ ˎˊ˗・・・・・
+ ・・・・・˗ˏˋ [★](https://open.spotify.com/playlist/4cpzEeLu0A62VfeGxU7R4U?si=GAgp3Y4rRkynpZ8kg1cDBg) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rhwndrs8sepg5n5kwiy75638b&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=82a8bf&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=rhwndrs8sepg5n5kwiy75638b&redirect=true) [★](https://open.spotify.com/playlist/4cpzEeLu0A62VfeGxU7R4U?si=GAgp3Y4rRkynpZ8kg1cDBg) ˎˊ˗・・・・・
  <img src="https://i.postimg.cc/C5Rj2FRm/59bf563c.gif"> 
 </div>
 
